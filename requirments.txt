@@ -1,0 +1,10 @@
+langchain
+langgraph
+python-dotenv
+langchain_groq
+langchain_huggingface
+langchain_google_genai
+sentence_transformers
+langchain_community
+wikipedia
+youtube_search
